@@ -1,0 +1,39 @@
+{
+    "name": "cpluscc/oauth-misskey",
+    "description": "Log in to your Flarum forum with Amazon",
+    "keywords": [
+        "flarum", "amazon", "sso", "oauth", "login"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        
+    },
+    "require": {
+        "flarum/core": "^1.2.0",
+        "fof/oauth": "^1.3.0",
+        "cpluscc/oauth2-misskey": "*"
+    },
+    "authors": [
+        {
+            "name": "Cpluscc",
+            "homepage": "https://post.cplus8.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cpluscc\\OAuthMisskey\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Log In With Misskey",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-amazon",
+                "backgroundColor": "#0072e3",
+                "color": "#fff"
+            }
+        }
+    }
+}
