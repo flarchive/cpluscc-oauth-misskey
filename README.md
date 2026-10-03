@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of cpluscc/oauth-misskey.** Not for installation: use [Packagist](https://packagist.org/packages/cpluscc/oauth-misskey) or the [upstream repository](https://github.com/cpluscc/oauth-misskey).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/cpluscc-oauth-misskey/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/cpluscc-oauth-misskey/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2023-07-27 | `^1.2.0` | [Browse](https://github.com/flarchive/cpluscc-oauth-misskey/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/cpluscc-oauth-misskey.json](https://github.com/flarchive/archive-index/blob/main/packages/cpluscc-oauth-misskey.json)
 
